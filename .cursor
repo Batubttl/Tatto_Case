@@ -1,0 +1,11 @@
+1. Do not commit or share the Replicate API Token in any public repository or website.
+2. The backend must be developed using Node.js and must follow Clean Architecture principles.
+3. The backend should expose an endpoint that receives a prompt and style, calls the Replicate API, and returns the generated image URL.
+4. The backend must be thread-safe and reliably handle concurrent requests.
+5. The frontend must be developed using Flutter and must follow Clean Architecture principles.
+6. Only the Home Page of the app should be implemented.
+7. The frontend must communicate with the backend to request image generation.
+8. Do not implement any additional pages or features beyond those specified.
+9. Do not make any file or code changes until explicitly instructed with the keyword "soprano".
+10. All code and architecture must be clean, modular, and maintainable.
+11. Sensitive information (such as API tokens) must never be exposed in the codebase and must be kept secure. 
