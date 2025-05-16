@@ -19,4 +19,4 @@ class NetworkFailure extends Failure {
 
 class GenerationFailure extends Failure {
   const GenerationFailure(String message) : super(message);
-} 
+}
